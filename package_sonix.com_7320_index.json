@@ -1,17 +1,17 @@
 {
   "packages": [
     {
-      "name": "myboard",
-      "maintainer": "Jane Developer",
-      "websiteURL": "https://github.com/janedeveloper/myboard",
-      "email": "jane@janedeveloper.org",
+      "name": "sonix",
+      "maintainer": "sonix test",
+      "websiteURL": "http://www.sonix.com.tw",
+      "email": "test@aa.bb.cc",
       "help": {
-        "online": "http://janedeveloper.org/forum/myboard"
+        "online": "http://www,sonix.com.tw"
       },
       "platforms": [
         {
-          "name": "My Board",
-          "architecture": "avr",
+          "name": "Test Board (32 bits ARM Cortex-M3)",
+          "architecture": "sonix",
           "version": "1.0.0",
           "category": "Contributed",
           "help": {
@@ -22,14 +22,14 @@
           "checksum": "SHA-256:ec3ff8a1dc96d3ba6f432b9b837a35fd4174a34b3d2927de1d51010e8b94f9f1",
           "size": "15005",
           "boards": [
-            {"name": "My Board"},
-            {"name": "My Board Pro"}
+            {"name": "My Board 7312"},
+            {"name": "My Board 7320"}
           ],
           "toolsDependencies": [
             {
-              "packager": "arduino",
-              "name": "avr-gcc",
-              "version": "4.8.1-arduino5"
+              "packager": "sonix",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
             },
             {
               "packager": "arduino",
@@ -39,8 +39,8 @@
           ]
         },
         {
-          "name": "My Board",
-          "architecture": "avr",
+          "name": "Test Board (32 bits ARM Cortex-M3)",
+          "architecture": "sonix",
           "version": "1.0.1",
           "category": "Contributed",
           "help": {
@@ -51,14 +51,14 @@
           "checksum": "SHA-256:9c86ee28a7ce9fe33e8b07ec643316131e0031b0d22e63bb398902a5fdadbca9",
           "size": "15125",
           "boards": [
-            {"name": "My Board"},
-            {"name": "My Board Pro"}
+            {"name": "My Board 7312"},
+            {"name": "My Board 7320"}
           ],
           "toolsDependencies": [
             {
-              "packager": "arduino",
-              "name": "avr-gcc",
-              "version": "4.8.1-arduino5"
+              "packager": "sonix",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
             },
             {
               "packager": "arduino",

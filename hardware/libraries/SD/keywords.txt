@@ -6,18 +6,26 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-Audio	KEYWORD1	Audio
+SD	KEYWORD1	SD
+File	KEYWORD1	SD
+SDFile	KEYWORD1	SD
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 begin	KEYWORD2
-prepare	KEYWORD2
-play	KEYWORD2
-stop	KEYWORD2
-pause	KEYWORD2
+exists	KEYWORD2
+mkdir	KEYWORD2
+remove	KEYWORD2
+rmdir	KEYWORD2
+open	KEYWORD2
+close	KEYWORD2
+seek	KEYWORD2
+size	KEYWORD2
+position	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
 #######################################
-
+FILE_READ	LITERAL1
+FILE_WRITE	LITERAL1

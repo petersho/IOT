@@ -47,8 +47,8 @@
           },
           "url": "https://github.com/petersho/IOT/raw/master/snx-1.0.1.tar.gz",
           "archiveFileName": "snx-1.0.1.tar.gz",
-          "checksum": "SHA-256:8ba455313913722168c94f8d75a1fb85d816b1f0723a39d4502b4cb6d9731f51",
-          "size": "950",
+          "checksum": "SHA-256:313681c6c443dbb106d67befc5d647814f3cc3d9ef069e4b6fe2e372b50f5ca8",
+          "size": "1338",
           "boards": [
             {"name": "My Board 7320"}
           ],

@@ -11,7 +11,7 @@
       "platforms": [
         {
           "name": "Test Board (32 bits ARM Cortex-M3)",
-          "architecture": "sonix",
+          "architecture": "arm",
           "version": "1.0.0",
           "category": "Contributed",
           "help": {
@@ -27,7 +27,7 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "sonix",
+              "packager": "arduino",
               "name": "arm-none-eabi-gcc",
               "version": "4.8.3-2014q1"
             },
@@ -40,7 +40,7 @@
         },
         {
           "name": "Test Board (32 bits ARM Cortex-M3)",
-          "architecture": "sonix",
+          "architecture": "arm",
           "version": "1.0.1",
           "category": "Contributed",
           "help": {
@@ -56,7 +56,7 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "sonix",
+              "packager": "arduino",
               "name": "arm-none-eabi-gcc",
               "version": "4.8.3-2014q1"
             },

@@ -11,14 +11,14 @@
       "platforms": [
         {
           "name": "Test Board (32 bits ARM Cortex-M3)",
-          "architecture": "sonix",
+          "architecture": "sn73xx",
           "version": "1.0.0",
           "category": "Contributed",
           "help": {
             "online": "http://www.sonix.com.tw"
           },
-          "url": "https://janedeveloper.github.io/myboard/myboard-1.0.0.zip",
-          "archiveFileName": "myboard-1.0.0.zip",
+          "url": "https://github.com/petersho/IOT/raw/master/snx-1.0.0.tar.gz",
+          "archiveFileName": "snx-1.0.0.tar.gz",
           "checksum": "SHA-256:ec3ff8a1dc96d3ba6f432b9b837a35fd4174a34b3d2927de1d51010e8b94f9f1",
           "size": "15005",
           "boards": [
@@ -40,7 +40,7 @@
         },
         {
           "name": "Test Board (32 bits ARM Cortex-M3)",
-          "architecture": "sonix",
+          "architecture": "sn73xx",
           "version": "1.0.1",
           "category": "Contributed",
           "help": {

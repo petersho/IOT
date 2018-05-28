@@ -46,9 +46,9 @@
           "help": {
             "online": "http://www.sonix.com.tw"
           },
-          "url": "https://github.com/petersho/IOT/blob/master/snx-1.0.1.tar.gz",
+          "url": "https://github.com/petersho/IOT/raw/master/snx-1.0.1.tar.gz",
           "archiveFileName": "snx-1.0.1.tar.gz",
-          "checksum": "SHA-256:4fd4cc800aa25dfc77371c0dd89dc67fd46cc71eadfed2c3dcc5997c5f47b22b",
+          "checksum": "SHA-256:1eb1b1c0d74a645ed1253f65f8f771bfe43944438a0a4fbe8a50ec0e3539fdb9",
           "size": "261",
           "boards": [
             {"name": "My Board 7312"},

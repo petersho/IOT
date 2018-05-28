@@ -46,8 +46,8 @@
           "help": {
             "online": "http://www.sonix.com.tw"
           },
-          "url": "https://janedeveloper.github.io/myboard/myboard-1.0.1.zip",
-          "archiveFileName": "myboard-1.0.1.zip",
+          "url": "https://github.com/petersho/IOT/blob/master/snx-1.0.1.tar.gz",
+          "archiveFileName": "snx-1.0.1.tar.gz",
           "checksum": "SHA-256:4fd4cc800aa25dfc77371c0dd89dc67fd46cc71eadfed2c3dcc5997c5f47b22b",
           "size": "261",
           "boards": [

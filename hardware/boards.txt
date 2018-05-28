@@ -1,0 +1,10 @@
+sonix_sn73xx.name=Sonix SN73xx
+sonix_sn73xx.vid=0x0C45
+sonix_sn73xx.pid=0x7600
+sonix_sn73xx.upload.tool=openocd
+sonix_sn73xx.upload.protocol=stk500v2
+sonix_sn73xx.upload.speed=57600
+sonix_sn73xx.build.mcu=cortex-m3
+sonix_sn73xx.build.board=SN73XX
+sonix_sn73xx.build.core=arduino
+sonix_sn73xx.build.varianta=suc7312

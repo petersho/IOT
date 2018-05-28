@@ -40,7 +40,7 @@
         },
         {
           "name": "Test Board (32 bits ARM Cortex-M3)",
-          "architecture": "arm",
+          "architecture": "sonix",
           "version": "1.0.1",
           "category": "Contributed",
           "help": {

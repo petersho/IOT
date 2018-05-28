@@ -11,7 +11,7 @@
       "platforms": [
         {
           "name": "Test Board (32 bits ARM Cortex-M3)",
-          "architecture": "arm",
+          "architecture": "sonix",
           "version": "1.0.0",
           "category": "Contributed",
           "help": {
